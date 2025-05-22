@@ -1,21 +1,21 @@
 # @format
 
 BOT: {
-  OWNERS: ["1214959194294321202", "1296592612114960415", "1297443880576225312"],
-  ADMINS: ["1214959194294321202",1296592612114960415", "1297443880576225312"],
+  OWNERS: ["1214959194294321202"],
+  ADMINS: ["1214959194294321202"],
 }
 LINKS: {
-  SUPPORT: "https://discord.gg/gRSHCpqK7u",
-  MONGO_URI: "mongodb+srv://rajeshwarrajbly20:randidadhabha@cluster0.cbs91jy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+  SUPPORT: "",
+  MONGO_URI: "",
 }
 SPOTIFY: {
-  ID: "28f83a6fba8b4faf91b55517d450bc91",
-  Secret: "7cc1f33fee2b4bec9fafc7532eed6493",
+  ID: "",
+  Secret: "",
 }
 
 MANAGER: {
   OWNER: "1297443880576225312",
-  TOKEN: "MTI1NjE4NDE4OTkzMDE3NjUyMg.G_nK6T.H-D6XIVyARUy6Aciz344xYU-tIPrfo70m36wCA",
+  TOKEN: "",
   }
 
 FUEGO: {
@@ -24,14 +24,14 @@ FUEGO: {
   COLOR: "#3d16ca",
   SHARDS: 1,
   PER_CLUSTER: 1,
-  TOKEN: "MTI1NjE4NDE4OTkzMDE3NjUyMg.G_nK6T.H-D6XIVyARUy6Aciz344xYU-tIPrfo70m36wCA",
+  TOKEN: "",
   TOPGGAUTH: "",
       }
 
 WEBHOOKS: {
-  ERROR: "https://discord.com/api/webhooks/1308424637142536262/H__6pJ9JOPAuxdQuBfN-UJOjJ1eVKcfqnHUlpkk0VNQvC5EFVmhk-VbmOxsHlUropLnt",
-  STATIC: "https://discord.com/api/webhooks/1308424637142536262/H__6pJ9JOPAuxdQuBfN-UJOjJ1eVKcfqnHUlpkk0VNQvC5EFVmhk-VbmOxsHlUropLnt",
-  PLAYER: "https://discord.com/api/webhooks/1308424637142536262/H__6pJ9JOPAuxdQuBfN-UJOjJ1eVKcfqnHUlpkk0VNQvC5EFVmhk-VbmOxsHlUropLnt",
-  SERVER: "https://discord.com/api/webhooks/1308424637142536262/H__6pJ9JOPAuxdQuBfN-UJOjJ1eVKcfqnHUlpkk0VNQvC5EFVmhk-VbmOxsHlUropLnt",
-  COMMAND: "https://discord.com/api/webhooks/1308424637142536262/H__6pJ9JOPAuxdQuBfN-UJOjJ1eVKcfqnHUlpkk0VNQvC5EFVmhk-VbmOxsHlUropLnt",
+  ERROR: "",
+  STATIC: "",
+  PLAYER: "",
+  SERVER: "",
+  COMMAND: "",
 }
